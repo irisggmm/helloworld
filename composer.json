@@ -1,0 +1,15 @@
+{
+    "name": "vendor/hellworld",
+    "description": "This is a tes",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "authors": [
+        {
+            "name": "guojuan",
+            "email": "guojuan@163.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
