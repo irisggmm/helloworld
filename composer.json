@@ -1,14 +1,14 @@
 {
-    "name": "lara/hellworld",
-    "description": "This is a tes",
+    "name": "lara/helloworld",
+    "description": "This is a test",
     "type": "library",
     "require": {
         "php": ">=5.4.0"
     },
     "authors": [
         {
-            "name": "guojuan",
-            "email": "guojuan@163.com"
+            "name": "acelovezy",
+            "email": "acelovezy@163.com"
         }
     ],
     "minimum-stability": "dev"
