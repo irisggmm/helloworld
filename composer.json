@@ -1,5 +1,5 @@
 {
-    "name": "vendor/hellworld",
+    "name": "lara/hellworld",
     "description": "This is a tes",
     "type": "library",
     "require": {
