@@ -1,9 +1,9 @@
 {
     "name": "lara/helloworld",
     "description": "This is a test",
-    "type": "library",
+    "license": "MIT",
     "require": {
-        "php": ">=5.4.0"
+       
     },
     "authors": [
         {
